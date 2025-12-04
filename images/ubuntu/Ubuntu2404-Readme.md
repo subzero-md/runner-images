@@ -1,7 +1,7 @@
 | Announcements |
 |-|
 | [[Ubuntu] `man-db` automatic updates will be disabled on November 10th](https://github.com/actions/runner-images/issues/13213) |
-| [[Ubuntu & Windows] Four tools scheduled for deprecation on November 3, 2025](https://github.com/actions/runner-images/issues/12898) |
+| [[Ubuntu & Windows] Four tools scheduled for deprecation on November 3, 2025 , 2026 ](https://github.com/actions/runner-images/issues/12898) |
 ***
 # Ubuntu 24.04
 - OS Version: 24.04.3 LTS
